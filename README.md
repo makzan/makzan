@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I write books and teach web technologies.
+
+- I just finished the 1st edition of [Beginning Git Version Control](https://leanpub.com/beginning-git-version-control) book.
+- I’m currently writing [Mobile First Web Technologies](https://github.com/makzan/Book-Mobile-First-Web-Technologies)
+
 <!--
 **makzan/makzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
